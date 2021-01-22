@@ -60,7 +60,7 @@ class Controls extends Component {
           <i className="iconfont multifunction-volume">&#xe614;</i>
           <span className="multifunction-quality">720P</span>
           <i className="iconfont multifunction-setting">&#xe71b;</i>
-          <i className="iconfont multifunction-fullscreen">&#xe627;</i>
+          
         </div>
       </div>
     );
