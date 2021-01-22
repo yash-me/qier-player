@@ -633,12 +633,7 @@ class Controls extends Component {
               ""
             )}
           </i>
-          <i
-            className="iconfont multifunction-fullscreen"
-            onClick={this.requestFullScreen}
-          >
-            &#xe627;
-          </i>
+          
         </div>
       </div>
     );
